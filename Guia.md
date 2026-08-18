@@ -52,5 +52,3 @@ Toby Fox fez uma gambiarra bem legal e chata que é formatar o texto usando sím
 ## Como saber se um diálogo cabe na textbox...
 
 - Bem simples, o [site do Demirramon](https://www.demirramon.com/generators/undertale_text_box_generator) ajuda muito nisso, basta abrir, selecionar o tipo de box, o portrait do personagem, colocar a mensagem (sem a formatação, o site aplica sozinho) e pronto!
-
-- <video controls src="/demonstraçao.mp4" title="Title"></video>
